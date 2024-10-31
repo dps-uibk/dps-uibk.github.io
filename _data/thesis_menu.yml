@@ -1,0 +1,17 @@
+- label: Bachelor thesis
+  items:
+    - name: Available thesis
+      link: /thesis/bachelor/available/
+    - name: Ongoing thesis
+      link: /thesis/bachelor/ongoing/
+    - name: Completed thesis
+      link: /thesis/bachelor/completed/
+
+- label: Master thesis
+  items:
+    - name: Available thesis
+      link: /thesis/master/available/
+    - name: Ongoing thesis
+      link: /thesis/master/ongoing/
+    - name: Completed thesis
+      link: /thesis/master/completed/

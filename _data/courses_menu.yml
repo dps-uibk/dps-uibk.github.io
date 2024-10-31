@@ -1,0 +1,6 @@
+- label: Courses
+  items:
+    - name: Distributed systems
+      link: /courses/distributed_systems/course_details/
+    - name: Operating systems
+      link: /courses/operating_systems/course_details/

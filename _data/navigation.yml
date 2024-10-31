@@ -1,0 +1,22 @@
+- name: Research
+  link: /#
+  dropdown:
+    - name: Research projects
+      link: /landing/
+    - name: Publications
+      link: /publications/
+- name: Teaching
+  link: /#
+  dropdown:
+    - name: Available thesis
+      link: /thesis/
+    - name: Courses
+      link: /courses/
+    - name: Ph.D.
+      link: /phd/
+- name: Media
+  link: /blog/
+- name: Team
+  link: /team/
+- name: Contact
+  link: /contact/
